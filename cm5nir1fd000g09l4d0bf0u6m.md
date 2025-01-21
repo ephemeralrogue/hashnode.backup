@@ -6,8 +6,8 @@ datePublished: Wed Jan 08 2025 06:28:58 GMT+0000 (Coordinated Universal Time)
 cuid: cm5nir1fd000g09l4d0bf0u6m
 slug: the-design-compendium
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737427412847/9f4ec1b2-cc1e-4315-ab72-0f16fd7d2b87.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736316658811/84512be8-c5b7-4756-a9fa-0853a92e5019.png
-tags: frontend-development, design-repository
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737427763939/561f91fd-f4c5-4ddb-91d6-bebe969efce4.jpeg
+tags: frontend-development, design-compendium
 
 ---
 
