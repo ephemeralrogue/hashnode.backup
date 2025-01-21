@@ -1,9 +1,11 @@
 ---
-title: "the design repository"
+title: "the design compendium"
+seoTitle: "Design Compendium Overview"
+seoDescription: "Explore building a design repository to enhance frontend skills and organize resources, using Next.js and GraphQL for dynamic presentations"
 datePublished: Wed Jan 08 2025 06:28:58 GMT+0000 (Coordinated Universal Time)
 cuid: cm5nir1fd000g09l4d0bf0u6m
-slug: the-design-repository
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736315739938/a8a31606-8478-4a1b-8d37-1b36e980ab37.png
+slug: the-design-compendium
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737427412847/9f4ec1b2-cc1e-4315-ab72-0f16fd7d2b87.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736316658811/84512be8-c5b7-4756-a9fa-0853a92e5019.png
 tags: frontend-development, design-repository
 
@@ -49,4 +51,4 @@ theoretically, of course. i could have this all bass-ackwards, because, again, [
 
 i’ve created a public repository on GitHub for this project, and it is currently quite empty, but if you have any desire to keep up with or potentially contribute to project development, feel free to give it a star and drop me a line on [Bluesky](https://bsky.app/profile/ephemeralrogue.xyz) or [Discord](https://discord.gg/nh7mqGEfbw). the repo can be found here:
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736314375636/c6679438-2fe6-4c27-b0b7-907574090970.png align="center")](https://github.com/LVNACY/design-repository)
+[![Two pencils on a bright yellow background with the text "the DESIGN COMPENDIUM" in bold white letters.](https://cdn.hashnode.com/res/hashnode/image/upload/v1737427450852/5d7ff7d7-d25b-44c8-9ff0-f7abde29ce59.jpeg align="center")](https://github.com/LVNACY/design-compendium)
